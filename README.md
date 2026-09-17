@@ -21,22 +21,28 @@ Aplikasi web pelacak pengeluaran harian dengan visualisasi chart. Data tersimpan
 - Toggle tema terang/gelap (tersimpan di LocalStorage)
 - Responsive design (desktop, tablet, mobile)
 
+
+## Preview
+![Preview Website](img/preview.jpeg)
+
+
 ## Cara Menjalankan
 
-Buka `index.html` di browser modern, atau gunakan local server:
+1. Clone repositori ini:
 
 ```bash
-# Menggunakan Python
-python -m http.server
-
-# Menggunakan npx
-npx serve .
+git clone <url repo ini>
+contoh : git clone https://github.com/Andraaaxyz/CodingCamp-14September2026-AndraAhmadS.git
 ```
 
-Jika menggunakan Laragon, akses langsung melalui:
+2. Masuk ke folder project:
+
+```bash
+cd <nama folder project>
 ```
-http://codingcamp-revou.test
-```
+
+3. Buka `index.html` di browser 
+
 
 ## Struktur Project
 
